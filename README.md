@@ -5,4 +5,4 @@ Symfony4/React.js blueprint
 - clone the repository 
 - run `composer install`
 - run `yarn`
-- run `./node_modules/.bin/endore dev --watch` to build and watch the assets
+- run `./node_modules/.bin/encore dev --watch` to build and watch the assets
